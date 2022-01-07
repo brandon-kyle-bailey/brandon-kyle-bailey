@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Twitter](https://twitter.com/brandonkpbailey)
-- ⚡ Fun fact: ...
+## 🇬🇧 British 👨‍💻 Software Developer living in 🇨🇦 Canada.
+
+### 🔭 _Among other things_, I’m currently working on
+- 🦖 [Dynoraptor](https://www.npmjs.com/package/@produce8/dynoraptor-cli) - The DynamoDB Migrations Tool Command Line Interface (CLI).
+
+### 📫 How to reach me: [Twitter](https://twitter.com/brandonkpbailey)
+
