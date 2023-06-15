@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🇬🇧 👨‍💻 Software Developer living in 🇨🇦
+## 🇬🇧 👨‍💻 Software Engineer living in 🇨🇦
 
 ### 🔭 _Among other things_, I’m currently working on
 - ...
