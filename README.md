@@ -19,13 +19,3 @@ Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo
 
 ## 3D/Embedded
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brandon-kyle-bailey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)</br>
-
-![](https://nirzak-streak-stats.vercel.app/?user=brandon-kyle-bailey&theme=catppuccin_mocha&hide_border=false)</br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-kyle-bailey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brandon-kyle-bailey&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=brandon-kyle-bailey&icon=0&color=0)](https://visitcount.itsvg.in)
